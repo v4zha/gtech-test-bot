@@ -1,5 +1,4 @@
 import sqlalchemy
-from sqlalchemy import sql
 from sqlalchemy.ext.declarative import declarative_base
 import os
 
