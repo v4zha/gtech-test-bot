@@ -1,4 +1,4 @@
 g-tech-venv
 .vscode
 __pycache__
-keys.txt
+.env
